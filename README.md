@@ -1,6 +1,6 @@
 # Hackintosh Catalina Guide for Gigabyte X570 Gaming X (OpenCore 0.61)
 
-This build is "Vanilla". I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) as a starting point.
+This build is "Big Sur Beta 10". I used [this guide](https://dortania.github.io/OpenCore-Desktop-Guide/) as a starting point.
 
 ### Hardware
 
