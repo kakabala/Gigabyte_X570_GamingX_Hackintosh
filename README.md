@@ -45,11 +45,6 @@ See my [Hardware List](HARDWARE.md)
 My old Clover guide used to have Step by Step instructions but I decided not to write such instructions here for two reasons: it's a pain to keep up to date, and I literally just followed the [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/). When in doubt, just look at my KEXTs, drivers and config.list for guidance.
 
 
-### USB Port Map & SSDT
-
-See [USB_MAP.md](USB_MAP.md) for a map of all the ports on the Aorus z390 Master.
-
-
 ### My EFI
 
 You are welcome to use my EFI folder. However, make sure you set the following:
